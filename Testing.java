@@ -13,6 +13,7 @@ public class Testing {
 		int p = scn.nextInt();
 		int[] ar = new int[x];
 		
+		
 		for (int i = 0; i < x; i++) {
 			int q = scn.nextInt();
 			arr[i] = q;
