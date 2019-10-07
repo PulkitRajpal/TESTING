@@ -18,6 +18,7 @@ public class Testing {
 			arr[i] = q;
 			}
 		if(arr[2]==ar[2]){
+		
 			System.out.print(arr[2]);
 		}
 	}
